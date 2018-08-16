@@ -8,6 +8,8 @@ namespace Test.Controllers
     public class DefaultController : ApiController
     {
         //Creating Instance of DatabaseContext class
+//Creating Instance of DatabaseContext class
+//Creating Instance of DatabaseContext class
         private DatabaseContext db = new DatabaseContext();
 
         //Creating a method to return Json data 
